@@ -1,5 +1,7 @@
 This is a project where you build the backend and frontend and connect them to each other,
-this basic application explain how to make a small list of users using the frontend and backend,
+this basic application explain how to make a small list of users using the frontend and backend.
+
+
 <span style="color:blue">frontend{
     react js,
     axios,
