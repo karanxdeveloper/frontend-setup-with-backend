@@ -5,11 +5,11 @@ import AddUser from './component/AddUser'
 import EditUser from './component/EditUser'
 
 
+
 function App() {
 
   return (
     <>
-    <h1>hello world</h1>
 
      <Routes>
       <Route path='/' element={<Home/>}/>

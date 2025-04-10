@@ -1,12 +1,28 @@
-# React + Vite
+This is a project where you build the backend and frontend and connect them to each other,
+this basic application explain how to make a small list of users using the frontend and backend,
+<span style="color:blue">frontend{
+    react js,
+    axios,
+    react-router,
+    react-router-dom,
+    bulma for style
+}</span>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<span style="color:blue">backend {
+    node js,
+    express js,
+    mongoose,
+    mongoDB,
+    cors,
+    dotenv,
+}</span>
 
-Currently, two official plugins are available:
+This is your home page where you get all the list of users you add!
+![App Preview](./screenshots/home.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is your add user page where you can add new user by adding the details like name, email, and gender!
+![App Preview](./screenshots/add%20user.png)
 
-## Expanding the ESLint configuration
+This is your edit page where you can update the exisiting user and can assign new value to them
+![App Preview](./screenshots/edit%20user.png)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
