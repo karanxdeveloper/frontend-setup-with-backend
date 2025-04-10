@@ -1,4 +1,4 @@
-This is a project where you build the backend and frontend and connect them to each other,
+This is a project where i build the backend and frontend and connect them to each other,
 this basic application explain how to make a small list of users using the frontend and backend.
 
 
